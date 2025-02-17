@@ -1,5 +1,5 @@
 
-#inclut "monster.h" // comment
+#include "Warrior.h"  // comment
 #include <iostream>
 using namespace std;
 int main()
