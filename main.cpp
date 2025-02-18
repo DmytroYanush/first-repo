@@ -7,7 +7,7 @@ using namespace std;
 
 //added a new comment that exist only in feature branch
 void feature ();
-int main()
+int MainFunction()
 {
     cout << "Hello world!\n";
 }
